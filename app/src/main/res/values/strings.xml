@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Pray Demo</string>
+    <string name="myrecipes">my recipes</string>
+    <string name="bookmarks">bookmarks</string>
+    <string name="photos">photos</string>
+    <string name="manage">manage</string>
+    <string name="status">status</string>
+    <string name="account">account</string>
+    <string name="social">social</string>
+    <string name="recipes">recipes</string>
+    <string name="trending">trending</string>
+    <string name="nearby">nearby</string>
+
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share</string>
+    <string name="settings">Options</string>
+    <string name="search">Search for community</string>
+    <string name="calendar">Calendar</string>
+    <string name="activity">Activity</string>
+    <string name="give">Give</string>
+    <string name="post">Post</string>
+    <string name="posts">Posts</string>
+    <string name="community">Community</string>
+    <string name="communitys">Communities</string>
+    <string name="all">All</string>
+    <string name="my">My</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+</resources>

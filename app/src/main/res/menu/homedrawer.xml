@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/nav_primary_group" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home">
+        </item>
+        <item
+            android:id="@+id/nav_activity"
+            android:icon="@drawable/ic_activity"
+            android:title="@string/activity">
+        </item>
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/profile">
+        </item>
+    </group>
+
+    <group android:id="@+id/nav_secondary_group" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_capture"
+            android:icon="@drawable/ic_camera"
+            android:title="Capture">
+        </item>
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="@string/share">
+        </item>
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings">
+        </item>
+    </group>
+
+    <group android:id="@+id/nav_tertiary_group" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/ic_announcement"
+            android:title="Privacy Policy">
+        </item>
+        <item
+            android:id="@+id/nav_terms"
+            android:icon="@drawable/ic_announcement"
+            android:title="Terms of Service">
+        </item>
+    </group>
+</menu>
